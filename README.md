@@ -10,4 +10,6 @@ If I call the script with 'stress_test.sh 1 1 1' I will assign the first 3 argum
 is called with 2 args, it is assumed you want to assign argList[0] and argList[1] to the respective args, and so on. 
 -W can be placed wherever. 
 
+for ez of use add; alias stresstest='./stress_test.sh' -> to your .bash_aliases or possibly .bashrc
+
 Happy Stress!
